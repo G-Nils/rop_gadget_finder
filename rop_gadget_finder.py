@@ -376,7 +376,7 @@ def main() -> None:
         return
 
     print(
-        f"Starting ropper_dump with following paramters:\n"
+        f"Starting rop_gadget_finder with following parameters:\n"
         f"Executable:       \t{executable}\n"
         f"Size:             \t{size}\n"
         f"Writing to file:  \t{write_to_file} ({outfile})\n"

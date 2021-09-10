@@ -41,7 +41,7 @@ Show all gadgets:
 
 ```console
 $ python3 rop_gadget_finder.py -e test
-Starting ropper_dump with following paramters:
+Starting rop_gadget_finder with following paramters:
 Executable:             test
 Size:                   3
 Writing to file:        False ()
@@ -85,7 +85,7 @@ Filter for gadget:
 ```console
 $ python3 rop_gadget_finder.py -e test --gadget "pop rbp"
 
-Starting ropper_dump with following paramters:
+Starting rop_gadget_finder with following parameters:
 Executable:             test
 Size:                   3
 Writing to file:        False ()
@@ -123,7 +123,7 @@ Limit the size of the gadgets:
 ```consle
 $ python3 rop_gadget_finder.py -e test --size 1
 
-Starting ropper_dump with following paramters:
+Starting rop_gadget_finder with following parameters:
 Executable:             test
 Size:                   1
 Writing to file:        False ()
