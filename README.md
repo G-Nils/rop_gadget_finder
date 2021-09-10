@@ -120,7 +120,7 @@ Found 25 gadgets
 
 Limit the size of the gadgets:
 
-```consle
+```console
 $ python3 rop_gadget_finder.py -e test --size 1
 
 Starting ropper_dump with following paramters:
