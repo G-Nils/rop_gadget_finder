@@ -12,6 +12,16 @@ These can be installed by running `pip install -r requirements.txt`.
 
 **Disclaimer**: I am also the author of the *twelfe* module ([twelfe github](https://github.com/G-Nils/twelfe)).
 
+Uses hinting, so we also need Python >= 3.5
+
+### Installation
+
+```console
+$ git clone https://github.com/G-Nils/rop_gadget_finder.git
+
+$ pip install -r requirements.txt
+```
+
 
 ### Examples
 
