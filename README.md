@@ -19,6 +19,8 @@ Uses hinting, so we also need Python >= 3.5
 ```console
 $ git clone https://github.com/G-Nils/rop_gadget_finder.git
 
+$ cd rop_gadget_finder
+
 $ pip install -r requirements.txt
 ```
 
