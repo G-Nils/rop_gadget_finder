@@ -15,7 +15,7 @@
 """
 import argparse
 from typing import Any
-from elf import *
+from twelfe.elf import ELF
 from capstone import *
 
 # Gadgets have to end in one of these instructions.

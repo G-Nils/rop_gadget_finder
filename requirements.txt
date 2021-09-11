@@ -1,4 +1,4 @@
 argparse
 capstone
-
+git+git://github.com/G-Nils/twelfe
 

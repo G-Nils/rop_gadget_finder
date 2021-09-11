@@ -4,15 +4,13 @@ A simple python tool to find ROP Gadget in Linux ELF binaries
 ### Prerequisites
 Uses some third party libraries:
 
-* argparse : For parsing command line arguments
-* capstone : For decoding the opcodes
+* argparse  : For parsing command line arguments
+* capstone  : For decoding the opcodes
+* twelfe    : For parsing the ELF file
 
-Both can be installed by running `pip install -r requirements.txt`.
+These can be installed by running `pip install -r requirements.txt`.
 
-We also need **twelfe**, a python libary to parse ELF files.
-This module can be found at [twelfe github](https://github.com/G-Nils/twelfe).
-
-**Disclaimer**: I am also the author of the *twelfe* module.
+**Disclaimer**: I am also the author of the *twelfe* module ([twelfe github](https://github.com/G-Nils/twelfe)).
 
 
 ### Examples
