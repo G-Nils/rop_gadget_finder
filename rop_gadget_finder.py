@@ -16,10 +16,7 @@
 import argparse
 from typing import Any
 from twelfe.elf import ELF
-#import twelfe
-#from twelfe import *
 
-#from twelfe import *
 from capstone import *
 
 # Gadgets have to end in one of these instructions.
